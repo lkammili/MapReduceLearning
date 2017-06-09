@@ -1,0 +1,5 @@
+com\learning\foo\mapreducelearning\HighestReducer.class
+com\learning\foo\mapreducelearning\App.class
+com\learning\foo\mapreducelearning\HighestCombiner.class
+com\learning\foo\mapreducelearning\WeatherDriver.class
+com\learning\foo\mapreducelearning\HighestMapper.class
